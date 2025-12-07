@@ -25,7 +25,7 @@ export default function Home() {
       </div>
 
       <div className="card">
-        <h1>Nathalie ❤️</h1>
+        <h1>Nathalie Costa Bezerra (futuramente de Albuquerque) ❤️</h1>
         <p>{displayText}</p>
         <div className="pulse">💐</div>
       </div>
