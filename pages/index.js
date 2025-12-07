@@ -1,9 +1,3 @@
-function Home() {
-  return (
-    <h1>
-      Nathalie, você é o amor da minha vida 💐💗
-    </h1>
-  );
+export default function Home() {
+  return <h1>Hello World</h1>;
 }
-
-export default Home;
